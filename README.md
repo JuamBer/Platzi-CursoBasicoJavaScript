@@ -1,6 +1,6 @@
 # Curso Básico de JavaScript
 
-Material realizado en el curso "Básico de JavaScript" de [Platzi]()
+Material realizado en el curso "Básico de JavaScript" de [Platzi](https://platzi.com/p/JuamBer/curso/1814-basico-javascript/diploma/detalle/)
 
 ## Autor ✒️
 
@@ -8,5 +8,5 @@ Material realizado en el curso "Básico de JavaScript" de [Platzi]()
 
 ## Certificación 🎓
 
-![Certificación]()
+![Certificación](https://github.com/JuamBer/Platzi-CursoBasicoJavaScript/blob/master/img-licencia/diploma-basico-javascript.jpg?raw=true)
 
